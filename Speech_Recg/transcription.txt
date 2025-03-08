@@ -1,0 +1,1 @@
+speech recognition is the technology that allows computers to understand and convert spoken language into text it uses machine learning and artificial intelligence to analyze audio and recognize words
